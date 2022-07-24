@@ -35,3 +35,10 @@
 
 [Gmail.com](dariachugunova2003@gmail.com) 
 
+## 📚 Courses
+
+    Stepik
+
+[Введение в Data Science](https://stepik.org/course/Введение-в-Data-Science-и-машинное-обучение-4852/) 
+
+[Java](https://stepik.org/course/Java-Базовый-курс-187/)     
