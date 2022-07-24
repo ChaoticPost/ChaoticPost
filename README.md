@@ -5,9 +5,10 @@
 
 - 💻 I’m currently working using kotlin, making some pet projects
 - 🌱 I’m currently learning flutter to switch to multiplatform development and also improving my android skills
-- 📝 Languages: Russian (native), English (B1)
 
-
+## 📝 Languages
+<a><img alt="Russian" src="https://img.shields.io/badge/Russian-00A550.svg?logo=Russian&logoColor=white"></a>
+<a><img alt="Russian" src="https://img.shields.io/badge/English-00A560.svg?logo=English&logoColor=white"></a>
 
 ## 🔧 Technologies & Tools
 
