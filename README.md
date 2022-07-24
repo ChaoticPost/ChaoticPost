@@ -33,5 +33,5 @@
 ## 📫 How to reach me:
 [telegram](https://t.me/botay_hard)
 
-
+[Gmail.com](dariachugunova2003@gmail.com) 
 
