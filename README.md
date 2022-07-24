@@ -30,7 +30,8 @@
   <img src = "https://github-readme-stats.vercel.app/api?username=ChaoticPost&show_icons=true&line_height=33&count_private=true">
 </p>
 
-- 📫 How to reach me: [telegram](https://t.me/botay_hard)
+## 📫 How to reach me:
+[telegram](https://t.me/botay_hard)
 
 
 
