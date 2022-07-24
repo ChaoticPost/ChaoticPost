@@ -1,4 +1,14 @@
-[![Header](https://raw.githubusercontent.com/ChaoticPost/ChaoticPost/master/space_header.png)]()
+[![Header](https://raw.githubusercontent.com/ChaoticPost/ChaoticPost/master/PicsArt_07-24-11.15.27.jpg)]()
+
+## I'm Daria
+   📍I'm interested in developing mobile applications.
+
+- 💻 I’m currently working using kotlin, making some pet projects
+- 🌱 I’m currently learning flutter to switch to multiplatform development and also improving my android skills
+- 📝 Languages: Russian (native), English (B1)
+
+
+
 ## 🔧 Technologies & Tools
 
  ### Programming languages
@@ -19,17 +29,7 @@
   <img src = "https://github-readme-stats.vercel.app/api?username=ChaoticPost&show_icons=true&line_height=33&count_private=true">
 </p>
 
-
-
-
-
-### 👋 Hi there.
-
-### 👩🏽‍💻 I'm Daria. I'm interested in developing mobile applications.
-
-- 💻 I’m currently working using kotlin, making some pet projects
-- 🌱 I’m currently learning flutter to switch to multiplatform development and also improving my android skills
-- 📝 Languages: Russian (native), English (B1)
 - 📫 How to reach me: [telegram](https://t.me/botay_hard)
+
 
 
