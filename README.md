@@ -1,26 +1,6 @@
 
 
 ## I'm Daria
-   📍I'm interested in developing mobile applications.
-
-- 💻 I’m currently working using kotlin, making some pet projects
-- 🌱 I’m currently learning flutter to switch to multiplatform development and also improving my android skills
-
-## 📝 Languages
-<a><img alt="Russian" src="https://img.shields.io/badge/Russian-00A550.svg?logo=Russian&logoColor=white"></a>
-<a><img alt="Russian" src="https://img.shields.io/badge/English-00A560.svg?logo=English&logoColor=white"></a>
-
-## 🔧 Technologies & Tools
-
- ### Programming languages
-<a><img alt="Python" src="https://img.shields.io/badge/Python-00A550.svg?logo=python&logoColor=white"></a>
-<a><img alt="C++" src="https://img.shields.io/badge/C++-3CAA3C.svg?logo=c%2B%2B&logoColor=white"></a>
-<a><img alt="Kotlin" src="https://img.shields.io/badge/Kotlin-008000.svg?logo=kotlin&logoColor=white"></a>
-<a><img alt="Java" src="https://img.shields.io/badge/Java-009900.svg?logo=Java&logoColor=white"></a>
-
-### IDE
-<a><img alt="Pycharm" src="https://img.shields.io/badge/PyCharm-9ACD32.svg?&logo=pycharm&logoColor=white"></a>
-<a><img alt="Visual Studio" src="https://img.shields.io/badge/Visual Studio-5DA130.svg?&logo=visualstudio&logoColor=white"></a>
 
 ## &#127919; GitHub Stats
 
@@ -31,7 +11,7 @@
 </p>
 
 ## 📫 How to reach me:
-[telegram](https://t.me/Overtune_daria)
+[telegram](https://t.me/coder_daria)
 
 [Gmail.com](dariachugunova2003@gmail.com) 
 
