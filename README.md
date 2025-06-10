@@ -72,13 +72,5 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChaoticPost&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" />
 </p>
 
----
-
-## Contribution Chart + Activity Radar
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ChaoticPost/github-profile-3d-contrib/output/dist/profile-3d-contrib/profile-customize.svg" alt="3D GitHub Chart with Radar" />
-</p>
-
 
 
