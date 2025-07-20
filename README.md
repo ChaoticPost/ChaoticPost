@@ -36,7 +36,7 @@
 
 ### 🖥️ Backend  
 ![Flask](https://img.shields.io/badge/Flask-F72C1F?style=for-the-badge&logo=Flask&logoColor=black)
-
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 
 ### 🗄️ Databases  
 ![MySQL](https://img.shields.io/badge/MySQL-005E87?style=for-the-badge&logo=mysql&logoColor=white)
