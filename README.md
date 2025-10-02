@@ -1,18 +1,10 @@
 <h1 align="center">Привет, я Дарья 👋</h1>
 
-<p align="center">
-  <img src="https://profile-counter.glitch.me/ChaoticPost/count.svg" />
-  <br/>
-  <em>Количество посетителей</em>
-</p>
-
-<img src="stats.gif" width="100%" alt="Статистика">
-
 ## Немного обо мне
 
 Привет! Я Дарья — разработчик,. Люблю создавать проекты, делиться знаниями и узнавать новое. Когда не пишу код, читаю детективы и криминалистику, учусь или фотографирую.
 
-⚙️ Mobile & Web dev | 💡 Технологический энтузиаст
+⚙️ Web & Mobile dev | 💡 Технологический энтузиаст
 
 Нравится создавать масштабируемые и удобные приложения!
 
@@ -21,7 +13,7 @@
 ## Чем увлекаюсь
 
 <!-- Заполни этот раздел своими достижениями, стажировками, участием в хакатонах и пр. -->
-- Участник хакатонов ЛЦТ, Альфа-будущее, AI Challenge от Сбера, Альфа Лаб, Kazan Digital Tatarstan
+- Победитель и призер хакатонов ЛЦТ, Альфа-будущее, AI Challenge от Сбера, Alfa Lab от Альфа-банка, Kazan Digital Tatarstan
 - Стажировка в КРОК, сейчас работаю в RTUITLab
 ---
 
@@ -34,6 +26,10 @@
 
 ## Технологический стек
 
+### 💻 Web Development  
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+
 ### 🖥️ Backend  
 ![Flask](https://img.shields.io/badge/Flask-F72C1F?style=for-the-badge&logo=Flask&logoColor=black)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
@@ -44,10 +40,6 @@
 
 ### 📱 Mobile Development  
 ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
-
-### 💻 Web Development  
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 
 ### 🎨 UI/UX Design  
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
