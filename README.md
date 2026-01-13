@@ -1,66 +1,65 @@
-<h1 align="center">Resonance </h1>
-<p align="center">
-  Команда, которая 4 года подряд делает сильные прототипы и MVP для задач бизнеса и людей
-</p>
+<h1 align="center">Привет, я Дарья 👋</h1>
+
+## Немного обо мне
+
+Привет! Я Дарья — разработчик. Люблю создавать проекты, делиться знаниями и узнавать новое. Когда не пишу код, читаю детективы и криминалистику, учусь или фотографирую.
+
+⚙️ Web & Mobile dev | 💡 Технологический энтузиаст
+
+Нравится создавать масштабируемые и удобные приложения!
 
 ---
 
-## Кто мы
+## Чем увлекаюсь
 
-**Resonance** - команда, которая уже 4 года стабильно показывает высокий уровень на хакатонах и в акселераторах. Умеем не только генерировать идеи, но и доводить их до работающих прототипов и внедрения.
-
+<!-- Заполни этот раздел своими достижениями, стажировками, участием в хакатонах и пр. -->
+- Победитель и призер хакатонов ЛЦТ, Альфа-будущее, AI Challenge от Сбера, Alfa Lab от Альфа-банка, Kazan Digital Tatarstan
+- Стажировка в КРОК, сейчас работаю в RTUITLab
 ---
 
-## Опыт участников
+## Как со мной связаться
 
-Участники команды имеют коммерческий опыт в крупных компаниях и продуктовых командах: **ВТБ**, **Альфа-Банк**, **ООО РУФОРМ Тех** и др.  
-Думаем про ценность для пользователя, метрики, качество, при этом не забывая про цели и задачи бизнеса.
-
----
-
-## Достижения
-
-- **Alfa Lab** — 1 место + проект принят к внедрению  
-- **Альфа-Будущее** — 2 место  
-- **Островок** — 3 место  
-- **Новатор Москвы** — топ-50 проектов  
-- **Архипелаг 2023** — финалисты  
-- **Катализатор роста** (РХТУ им. Менделеева) — победа  
-- **Акселератор 4.0** (РТУ МИРЭА) — победа
-
----
-
-## Что мы делаем
-
-- AI-ассистенты и ML-продукты (классификация, RAG, LLM)
-- Веб-сервисы и лендинги
-- Дашборды, аналитика, метрики продукта
-- UX/UI, прототипирование, тестирование гипотез
+- Telegram: [@daria_chugu](https://t.me/daria_chugu)
+- Email: [dariachugunova2003@gmail.com](mailto:dariachugunova2003@gmail.com)
 
 ---
 
 ## Технологический стек
 
-### 💻 Frontend
+### 💻 Web Development  
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 
-### 🖥️ Backend
+### 🖥️ Backend  
+![Flask](https://img.shields.io/badge/Flask-F72C1F?style=for-the-badge&logo=Flask&logoColor=black)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Python](https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-### 🗄️ Databases
+### 🗄️ Databases  
+![MySQL](https://img.shields.io/badge/MySQL-005E87?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
-### 🚀 DevOps
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+### 📱 Mobile Development  
+![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
 
-### 🎨 UI/UX
+### 🎨 UI/UX Design  
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+
+### 🚀 DevOps & CI/CD  
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 ---
 
+## Статистика
+
 <p align="center">
-  <i>Делаем проект объединяя задачи бизнеса и пожелания пользователей!</i>
+  <img src="https://github-readme-stats.vercel.app/api?username=ChaoticPost&show_icons=true&theme=tokyonight&hide_border=true" alt="Дарья GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ChaoticPost&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChaoticPost&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" />
 </p>
